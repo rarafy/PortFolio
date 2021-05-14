@@ -1,0 +1,10 @@
+﻿
+Google Speech to Text API / docomo 音声認識API→ TalkAPI → OpenJTalk
+
+Python3
+
+HACO概要
+https://100banch.com/projects/haco-robot/
+
+株式会社Yoki
+https://logy.app/
